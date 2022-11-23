@@ -1,0 +1,49 @@
+ body{
+   background-color: #5E7A36;
+ }
+ h1{
+    color:#4345ec ;
+    text-align: center;
+    background-color: #E0D027;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ h2{
+    color: #0e036d;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px; }
+ table{
+    width:100%;
+    
+ }
+ table td{
+    width: 150%;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ table tr{
+    color: #eed920;
+    background-color:#5E7A36 ;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+
+ div{
+    background-color:#E0D027 ;
+ }
+ .beach{
+    margin-right: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+ }
